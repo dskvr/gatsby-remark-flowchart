@@ -5,7 +5,8 @@
   "author": "Donghua Liu <liudonghua123@gmail.com> (http://liudonghua.com)",
   "license": "MIT",
   "dependencies": {
-    "unist-util-visit": "^1.1.3"
+    "unist-util-visit": "^1.1.3",
+    "react-simple-flowchart": "^1.2.2"
   },
   "devDependencies": {},
   "keywords": [
@@ -13,6 +14,7 @@
     "gatsby-plugin",
     "graph",
     "flowchart.js",
+    "react-simple-flowchart",
     "remark"
   ],
   "repository": {
